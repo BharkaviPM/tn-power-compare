@@ -121,45 +121,45 @@ cd tn-power-compare
 ---
 
 # Backend Setup
-cd server
-npm install
-npm run dev
-Backend runs on: http://localhost:5000
+- cd server
+- npm install
+- npm run dev
+- Backend runs on: http://localhost:5000
 
 ---
 
 # Frontend Setup
 
-cd client
-npm install
-npm run dev
-Frontend runs on: http://localhost:5173
+- cd client
+- npm install
+- npm run dev
+- Frontend runs on: http://localhost:5173
 
 ---
 
 # Official Tariff Logic
-Old Tariff (Previous Policy)
-100 Units Free
-Telescopic slab system
-Revised Tariff (Current Policy)
-200 Units Free (up to 500 units)
-Above 500 units → revised slab rates apply
+- Old Tariff (Previous Policy)
+- 100 Units Free
+- Telescopic slab system
+- Revised Tariff (Current Policy)
+- 200 Units Free (up to 500 units)
+- Above 500 units → revised slab rates apply
 
 # PWA Installation
 
-On mobile:
+- On mobile:
 
-Open deployed app - https://tneb-bill-comparison-isgg.vercel.app/
-Click “Install App”
-App works like native mobile application
+- Open deployed app - https://tneb-bill-comparison-isgg.vercel.app/
+- Click “Install App”
+- App works like native mobile application
 
 # Features Preview
-AI Smart Dashboard
-Voice Assistant
-OCR Bill Scanner
-Appliance Calculator
-Bill Comparison Analytics
-Dark / Light Mode
+- AI Smart Dashboard
+- Voice Assistant
+- OCR Bill Scanner
+- Appliance Calculator
+- Bill Comparison Analytics
+- Dark / Light Mode
 
 # Developed By
 Bharkavi PM
