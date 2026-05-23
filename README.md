@@ -5,7 +5,7 @@ A modern AI-powered Tamil Nadu Electricity Bill Comparison platform built using 
 Compare old vs revised Tamil Nadu electricity tariff systems instantly and discover your savings under the latest subsidy policy.
 
 ---
-# What this app can do?
+# What this app can do? - https://tneb-bill-comparison-isgg.vercel.app/
 
 ## Bill Comparison
 - Compare old tariff vs new tariff
@@ -149,7 +149,7 @@ Above 500 units → revised slab rates apply
 
 On mobile:
 
-Open deployed app
+Open deployed app - https://tneb-bill-comparison-isgg.vercel.app/
 Click “Install App”
 App works like native mobile application
 
