@@ -5,10 +5,9 @@ A modern AI-powered Tamil Nadu Electricity Bill Comparison platform built using 
 Compare old vs revised Tamil Nadu electricity tariff systems instantly and discover your savings under the latest subsidy policy.
 
 ---
+# What this app can do?
 
-# 🚀 Features
-
-## ✅ Bill Comparison
+## Bill Comparison
 - Compare old tariff vs new tariff
 - 100 free units vs 200 free units
 - Savings calculation
@@ -16,7 +15,7 @@ Compare old vs revised Tamil Nadu electricity tariff systems instantly and disco
 
 ---
 
-## ✅ Smart Dashboard
+## Smart Dashboard
 - Interactive bill cards
 - AI-powered insights
 - Savings analytics
@@ -24,7 +23,7 @@ Compare old vs revised Tamil Nadu electricity tariff systems instantly and disco
 
 ---
 
-## ✅ Appliance Usage Estimator
+## Appliance Usage Estimator
 Estimate monthly electricity usage based on appliance usage.
 
 Features:
@@ -34,12 +33,12 @@ Features:
 
 ---
 
-## ✅ OCR Bill Scanner
+## OCR Bill Scanner
 Upload EB bill images and extract bill text automatically using OCR.
 
 ---
 
-## ✅ AI Voice Assistant
+## AI Voice Assistant
 Voice-enabled assistant for:
 - “350 units”
 - “Show bill for 500 units”
@@ -47,13 +46,13 @@ Voice-enabled assistant for:
 
 ---
 
-## ✅ Bilingual Support
+## Bilingual Support
 - English
 - தமிழ் (Tamil)
 
 ---
 
-## ✅ Responsive Design
+## Responsive Design
 Fully optimized for:
 - Desktop
 - Tablet
@@ -61,12 +60,12 @@ Fully optimized for:
 
 ---
 
-## ✅ PWA Support
+## PWA Support
 Installable web application with offline support.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Frontend
 - React.js
@@ -89,7 +88,7 @@ Installable web application with offline support.
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 tn-power-compare
@@ -118,18 +117,25 @@ tn-power-compare
 git clone https://github.com/BharkaviPM/tn-power-compare.git
 2️⃣ Navigate to Project
 cd tn-power-compare
+
+---
+
 # Backend Setup
 cd server
 npm install
 npm run dev
 Backend runs on: http://localhost:5000
 
-# 🎨 Frontend Setup
+---
+
+# Frontend Setup
 
 cd client
 npm install
 npm run dev
 Frontend runs on: http://localhost:5173
+
+---
 
 # Official Tariff Logic
 Old Tariff (Previous Policy)
