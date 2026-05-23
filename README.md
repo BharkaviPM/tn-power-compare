@@ -112,32 +112,24 @@ tn-power-compare
 │
 └── README.md
 ```
-#⚙️ Installation
+# Installation
 
 1️⃣ Clone Repository
 git clone https://github.com/BharkaviPM/tn-power-compare.git
 2️⃣ Navigate to Project
 cd tn-power-compare
-🔥 Backend Setup
+# Backend Setup
 cd server
 npm install
 npm run dev
-
-Backend runs on:
-
-http://localhost:5000
+Backend runs on: http://localhost:5000
 
 # 🎨 Frontend Setup
-
-Open another terminal:
 
 cd client
 npm install
 npm run dev
-
-Frontend runs on:
-
-http://localhost:5173
+Frontend runs on: http://localhost:5173
 
 # Official Tariff Logic
 Old Tariff (Previous Policy)
@@ -154,7 +146,6 @@ On mobile:
 Open deployed app
 Click “Install App”
 App works like native mobile application
-
 
 # Features Preview
 AI Smart Dashboard
